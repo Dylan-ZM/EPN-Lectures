@@ -196,7 +196,7 @@ ejecuta el computador IAS.
  - $[940] \leftarrow [AC]$
  - $[AC] \leftarrow [AC]\times 2$
  - $[941] \leftarrow [AC]$
- - $[AC] \leftarrrow -[940]$
+ - $[AC] \leftarrow -[940]$
  - $[940] \leftarrow [AC]$
  - $[IR] \leftarrow HALT$
 
