@@ -4,9 +4,9 @@
 #+options: inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
 #+options: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
 #+title: Taller de Comandos Linux
-#+date: 2024-07-
+#+date: 2026-06-29
 #+author: Joset Muela, Dylan Zuñiga, Anthony Erazo
-#+email: anthony.erazo01@epn.edu.ec, 
+#+email: anthony.erazo01@epn.edu.ec, joset.muela@epn.edu.ec
 #+language: Español
 #+select_tags: export
 #+exclude_tags: noexport
